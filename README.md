@@ -16,7 +16,6 @@ I am a <b>Full Stack Developer</b> and <b>ML enthusiast</b>, passionate about bu
 ✨ Creating bugs since 2022 <br>
 📚 I'm currently learning <b>Machine Learning & AWS</b> <br>
 🎯 Goals: To become a <b>skilled Software Engineer</b> and contribute to impactful projects <br>
-🎲 Fun fact: Scored <b>100%</b> in my 10th board exams 😅
 </p>
 
 ###
